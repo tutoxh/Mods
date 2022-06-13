@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'30', 'ver3':'\n• welcome \n', 'dli':'https://fgmods.epizy.com', 'exp170':'1', 'exp180':'1','exp190':'360'}
+{'ver1':'9', 'ver2':'29', 'ver3':'\n• welcome \n', 'dli':'https://fgmods.epizy.com', 'exp170':'1', 'exp180':'1','exp190':'360'}
