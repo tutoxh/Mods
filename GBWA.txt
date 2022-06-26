@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'15', 'ver3':'[Fixed Update] \n\n' , 'dli':'https://fgmods.epizy.com'}
+{'ver1':'9', 'ver2':'33', 'ver3':'[Fixed Update] \n\n' , 'dli':'https://fgmods.epizy.com'}
