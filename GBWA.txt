@@ -1,1 +1,1 @@
-{'ver1':'13', 'ver2':'55', 'ver3':'test que le \n\n' , 'dli':'https://fgmods.epizy.com'}
+{'ver1':'13', 'ver2':'50', 'ver3':'test que le \n\n' , 'dli':'https://fgmods.epizy.com'}
