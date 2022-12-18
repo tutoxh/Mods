@@ -1,1 +1,1 @@
-{'ver1':'13', 'ver2':'85', 'ver3':'test wa.me/59172945992 que le \n\n' , 'dli':'https://fgmods.epizy.com'}
+{'ver1':'13', 'ver2':'80', 'ver3':'test wa.me/59172945992 🤔 que le \n\n' , 'dli':'https://fgmods.epizy.com'}
