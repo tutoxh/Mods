@@ -1,1 +1,33 @@
-je
+{
+  "GB": {
+    "update_code": "4",
+    "reminder_time": "3",
+    "update_link": "https://fgmods.epizy.com",
+    "stickers_app": "dontcheck",
+    "stickers_app_package_name": "com.gbstickers.gb",
+    "stickers_app_link": "https://play.google.com/store/apps/details?id=com.gbstickers.gb",
+    "stickers_app_direct_link": "https://fgmods.epizy.com",
+    "update_message": "
+<p>Update VØªØ­Ø¯ÙŠØ« 15</p>
+
+<li>(Exclusive) Added mod 2.1.11 to hide unused options from chats menu. like(Starred messages - custom chats - restart - Linked devices)</li>
+<li>(Exclusive) Now you can open any chat from the notification (who online - change profile pic)</li>
+<li>Update WhatsApp icon</li>
+<li>Update GB Settings Theme, Colors, Sizes</li>
+<li>Added mod 2.1.13 to hide community tab.</li>
+<li>Added mod 2.7.10 to hide cut videos fab.</li>
+<li>Added mod 2.1.12 to hide cam icon from Chats.</li>
+<li>Fixed nickname not showing in groups.</li>
+<li>Fixed fonts not applied in some screens.</li>
+<li>Fixed ticks not changing.</li>
+<li>Fixed GB Fab in chats screen.</li>
+<li>Fixed dnd mod.</li>
+<li>Fixed Restart option</li>
+<li>Fixed Stickers/Images showing in the notifications if the chat hidden.</li>
+<li>Fixed language not changing in GB Settings</li>
+<li>Fixed Night Mode in GB Settings</li>
+<li>Fixed crashes.</li>
+<li>Other Fixes</li>
+"
+    }
+}
