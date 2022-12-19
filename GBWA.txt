@@ -8,7 +8,7 @@
     "stickers_app_link": "https://play.google.com/store/apps/details?id=com.gbstickers.gb",
     "stickers_app_direct_link": "https://fgmods.epizy.com",
     "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 15</p>
+<p>Update FGWhatsApp v15</p>
 
 <li>(Exclusive) Added mod 2.1.11 to hide unused options from chats menu. like(Starred messages - custom chats - restart - Linked devices)</li>
 <li>(Exclusive) Now you can open any chat from the notification (who online - change profile pic)</li>
