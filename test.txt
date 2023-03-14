@@ -1,1 +1,16 @@
-{'ver1':'9', 'ver2':'35', 'ver3':'\n\n\n- 🚨 ACTUALIZACIÓN DE CORRECCIÓN IMPORTANTE:\n\n🔨 [Corregido] Google Play Protect  "aplicación dañina" alerta incorrecta.\n\n💠[Nuevo] Multi cuentas\n' , 'dli':'https://fg98.epizy.com/fgwa.html'}
+{"version_code":230176007,"content":"
+<p>Update FGWhatsApp v14.11</p>
+
+
+<li>AntiBan Mejorado</li>
+<li>Guardar Msj Temporales</li>
+<li>Nota de voz continua</li>
+<li>Estilos de Corazon</li>
+<li>Sonidos personalizados</li>
+<li>Editar Mensajes</li>
+
+
+
+
+","url":"https://fgmods.epizy.com"
+}
