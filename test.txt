@@ -1,16 +1,10 @@
-{"version_code":230176006,"content":"
-<p>Update FGWhatsApp v14.11</p>
-
-
-<li>AntiBan Mejorado</li>
-<li>Guardar Msj Temporales</li>
-<li>Nota de voz continua</li>
-<li>Estilos de Corazon</li>
-<li>Sonidos personalizados</li>
-<li>Editar Mensajes</li>
-
-
-
-
-","url":"https://fgmods.epizy.com"
+{
+  "records": [
+    {
+      "version": "WA v5.0",
+      "code": 57,
+      "url": "https:// fgmods.epizy.com",
+      "changelog": "- Add Transparent Theme - Add Curve and Wave Home UI - Hide Floating Entry Button - Fix Bug"
+    }
+  ]
 }
