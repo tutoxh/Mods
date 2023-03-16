@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "WA v5.0",
-      "code": 57,
+      "code": 58,
       "url": "https:// fgmods.epizy.com",
       "changelog": "- Add Transparent Theme - Add Curve and Wave Home UI - Hide Floating Entry Button - Fix Bug"
     }
