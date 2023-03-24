@@ -3,8 +3,8 @@
     {
       "version": "FGWA Business v1.7.0",
       "code": 22,
-      "url": "https://fgmods.epizy.com",
-      "changelog": "- Add Transparent Theme - Add Curve and Wave Home UI - Hide Floating Entry Button - Fix Bug"
+      "url": "https://fgmods.epizy.com/index_wab.html",
+      "changelog": "- Fix Bug"
     }
   ]
 }
