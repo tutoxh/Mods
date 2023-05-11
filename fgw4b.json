@@ -1,10 +1,20 @@
+
 {
+
   "records": [
+
     {
-      "version": "FGWA Business V1.8.0",
-      "code": 15,
-      "url": "https://fgmods.epizy.com",
-      "changelog": "- Base 222222222"
+
+      "version": "FGWA Business V1.7.0",
+
+      "code": 16,
+
+      "url": "https://fgmods.epizy.com/index_wab.html",
+
+      "changelog": "\n\n - 🛡️ Mejorado: Más protección  Anti-ban mejorado\n\n- 💠 Agregado: Nuevos emojis\n\n- 💠Nuevo: Los administradores de grupos ahora pueden controlar quién se une a sus grupos\n\n"
+
     }
+
   ]
-}
+
+} 
